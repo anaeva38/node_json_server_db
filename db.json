@@ -5,13 +5,13 @@
       "apellido": "Code",
       "materias": [
         {
-          "nombre": "NodeJS desde Cero"
+          "nombre": "NodeJS desde Cero."
         },
         {
-          "nombre": "ReactJS desde Cero"
+          "nombre": "ReactJS desde Cero."
         },
         {
-          "nombre": "JavaScript desde Cero"
+          "nombre": "JavaScript desde Cero."
         }
       ],
       "id": "e462"
@@ -22,10 +22,10 @@
       "apellido": "GR",
       "materias": [
         {
-          "nombre": "Java Básico"
+          "nombre": "Java Básico."
         },
         {
-          "nombre": "Cobol"
+          "nombre": "Cobol."
         }
       ]
     }
@@ -46,19 +46,19 @@
   ],
   "cursos": [
     {
-      "nombre": "NodeJS desde Cero",
+      "nombre": "NodeJS desde Cero.",
       "duración": 5,
       "dificultad": "Intermedia",
       "id": "6ef0"
     },
     {
-      "nombre": "ReactJS desde Cero",
+      "nombre": "ReactJS desde Cero.",
       "duración": 6,
       "dificultad": "Intermedia",
       "id": "84c3"
     },
     {
-      "nombre": "Angular17 desde Cero",
+      "nombre": "Angular17 desde Cero.",
       "duración": 7,
       "dificultad": "Alta",
       "id": "22c1"
